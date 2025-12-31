@@ -1,14 +1,25 @@
-# FYP-Suicidal-Ideation-Detection-UsingDL
-Degree Final Year Research Project 
+## FYP-Suicidal-Ideation-Detection-UsingDL
+### Degree Final Year Research Project 
 
-Setup a Python 3.11.13 environment
-Install all the libraries using command (the library list at BMCS3413_FYP_SourceCode_LauZhanLiang/env_packages.txt)
-Now you have done setting up the environment
-Now you can str8 away run the scripts
+To run the scripts again:
+1. Setup a Python 3.11.13 environment
+
+2. Install all the libraries using command (the library list at BMCS3413_FYP_SourceCode_LauZhanLiang/env_packages.txt)
+
+3. Now you have done setting up the environment
+
+4. Now you can straight away run the scripts
+
+
 
 Alternatively:
-Upload the scripts on google colab
-Upload the required dataset to the google colab runtime
-Make sure that you use L4 GPU
-Make sure that you use runtime version 2025.11
-Run the whole notebook
+
+1. Upload the scripts on google colab
+
+2. Upload the required dataset to the google colab runtime
+
+3. Make sure that you use L4 GPU
+
+4. Make sure that you use runtime version 2025.11
+
+5. Run the whole notebook
