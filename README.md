@@ -4,11 +4,11 @@
 To run the scripts again:
 1. Setup a Python 3.11.13 environment
 
-2. Install all the libraries using command (the library list at BMCS3413_FYP_SourceCode_LauZhanLiang/env_packages.txt)
+2. Install all the libraries using command (the library list at env_packages.txt)
 
 3. Now you have done setting up the environment
 
-4. Now you can straight away run the scripts
+4. You can now run the scripts
 
 
 
