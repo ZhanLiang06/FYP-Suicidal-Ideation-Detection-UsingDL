@@ -30,7 +30,6 @@ The headline result is based on 30 repeated seeds with 5-fold cross-validation, 
 - [Repository Structure](#repository-structure)
 - [How to Run](#how-to-run)
 - [Reference](#reference)
-- [Note](#note)
 
 ## Key Features
 
@@ -197,8 +196,6 @@ FYP-Suicidal-Ideation-Detection-UsingDL/
 ├── Datasets/                 # Dataset analysis utilities
 ├── ReadME-Images/            # Curated figures used in this README
 ├── env_packages.txt          # Environment dependency list
-├── BACS3403_Final_LauZhanLiang.docx.pdf
-└── LauZhanLiang_viva_slides.pptx
 ```
 
 ## How to Run
@@ -216,7 +213,3 @@ FYP-Suicidal-Ideation-Detection-UsingDL/
 ## Reference
 
 - Mirtaheri et al. (2024), AL-BTCN baseline for suicidal ideation detection.
-
-## Note
-
-This repository is presented as a research and portfolio project. It is not intended for clinical diagnosis or real-world mental health decision-making.
