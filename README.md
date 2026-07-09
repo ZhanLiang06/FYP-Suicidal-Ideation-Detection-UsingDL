@@ -204,7 +204,7 @@ FYP-Suicidal-Ideation-Detection-UsingDL/
 2. Install the dependencies listed in `env_packages.txt`.
 3. Open the notebooks under `Scripts/` or `Results/` to reproduce the experiments.
 4. Primary execution platform: Google Colab Pro with T4 GPU, using a GPU runtime and running the notebooks end-to-end after uploading the required datasets.
-5. 
+
 ## Reference
 
 - Mirtaheri et al. (2024), AL-BTCN baseline for suicidal ideation detection.
