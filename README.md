@@ -185,7 +185,7 @@ The figures below show baseline and proposed training/validation curves for each
 
 ## Model Visualization
 
-The README includes the most relevant learning curves from `ReadME-Images/` so the training dynamics are visible at a glance. Additional learning-curve and ablation figures are stored in the repository under `Results/` and `ReadME-Images/` for deeper inspection. The report and viva slides also contain the full experiment narrative and statistical comparison across model variants.
+The README includes the most relevant learning curves from `ReadME-Images/` so the training dynamics are visible at a glance. Additional learning-curve and ablation figures are stored in the repository under `Results/` and `ReadME-Images/` for deeper inspection.
 
 ## Repository Structure
 
